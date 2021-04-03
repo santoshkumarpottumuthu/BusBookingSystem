@@ -20,7 +20,7 @@ public class MainScreen {
             @Override
             public void actionPerformed(ActionEvent e) {
                 AdminLogin al = new AdminLogin();
-                al.setVisible(true)
+                al.setVisible(true);
             }
         });
     }
